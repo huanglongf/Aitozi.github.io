@@ -70,6 +70,9 @@
 - java并发专题
 - java io/nio
 - 分布式系统概念
+  - zookeeper和paxos算法
+  - CAP
+  - 两阶段提交
 - java类加载机制
 - jvm专题
 - GC算法专题
